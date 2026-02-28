@@ -4,6 +4,35 @@ Overview
 
 This project performs end-to-end sales data analysis on 20,000 coffee machine sales records using MySQL for data cleaning and Power BI for visualization and business intelligence. The goal was to transform raw sales data into meaningful business insights through SQL processing and interactive dashboard reporting.
 
+Dataset Description
+
+It contains coffee machines sales information including:
+
+1. Transactionid - Unique Identifier for each sale transaction
+
+2. ProductName – Name of the coffee machine
+
+3. BrandName – Brand of the machine
+
+4. BrandType – category of the brand positioning
+
+5. MachineType – Commercial or At-home use
+
+6. UnitPrice – Unit price of the product
+
+7. UnitsSold – Number of units sold
+
+8. SupplierName – Supplier providing the product
+
+9. City – Sales location
+
+10. SalesDate - date of teh transaction
+
+11. StockAvailable - Numbers of units available in inventory 
+
+12. Color - color variant of the machine
+
+
 Tools & Technologies Used
 
 1. MySQL – Data loading, cleaning, transformation
